@@ -1,4 +1,3 @@
-
 # Multi-agent BD pipeline
 
 **The problem.** Business development at the top of the funnel is mostly unpaid research. You find the right companies, figure out why they'd care, and write something that earns a reply. Doing it well takes hours per target. Doing it at volume takes a team. I wanted the volume without the team.
