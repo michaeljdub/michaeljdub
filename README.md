@@ -1,6 +1,6 @@
 # Michael Dub
 
-I run revenue and business development for media, sports, and entertainment companies. Lately I've been building the systems that do the revenue work, in Python and Claude Code, in production.
+I run revenue and business development for businesses. Lately I've been building the systems that do the revenue work, in Python and Claude Code, in production.
 
 The through-line is the same one I've chased my whole career: the gap between an audience and the money it's actually worth. I close it with pipelines, not slides. Most of what's here started as something I needed and couldn't buy.
 
