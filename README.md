@@ -1,10 +1,10 @@
 # Michael Dub
 
-My experience is focused on generating revenue and supporting business development for companies. Lately I've been building the systems that do the revenue work, in Python and Claude Code, in production.
+My experience is focused on generating revenue and supporting business development for companies. Lately I've been building the systems that do the revenue work, in Python and Claude Code.
 
-The through-line is the same one I've chased my whole career: the gap between an audience and the money it's actually worth. I close it with pipelines, not slides. Most of what's here started as something I needed and couldn't buy.
+The through-line is the same one I've been a part of my whole career: the gap between an audience and the money it's actually worth. I close it with pipelines, workflows and developing outcome based commercial narratives. Most of what's here started as something I needed and couldn't buy.
 
-Founder of DXagency and Sweet Chameleon, an AI-powered IP monetization platform. Earlier, Viacom/MTV and Time Warner/Time Inc. I write about fandom, IP, and where commercial technology is heading.
+I write about audience and data acquisition, revenue generation, IP monetization, and where commercial technology is heading.
 
 ### Selected builds
 
